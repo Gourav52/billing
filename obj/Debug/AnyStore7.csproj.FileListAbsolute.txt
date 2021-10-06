@@ -1,0 +1,17 @@
+C:\dev\vs\AnyStore7\AnyStore7\bin\Debug\AnyStore7.exe.config
+C:\dev\vs\AnyStore7\AnyStore7\bin\Debug\AnyStore7.exe
+C:\dev\vs\AnyStore7\AnyStore7\bin\Debug\AnyStore7.pdb
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.frmAdminDashboard.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.Properties.Resources.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.csproj.GenerateResource.Cache
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.exe
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.pdb
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.frmUserDashboard.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmUsers.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmLogin.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmCategories.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmProducts.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmDeaCust.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmPurchaseAndSales.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmTransactions.resources
+C:\dev\vs\AnyStore7\AnyStore7\obj\Debug\AnyStore7.UI.frmInventory.resources
